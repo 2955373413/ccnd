@@ -1,1 +1,3 @@
-{"version": 2,"routes": [{"src": "/(.*)","dest": "https://webuses.top/$1"}]}
+{
+    "routes": [{ "src": "/(.*)", "dest": "https://www.webuses.top" }]
+}
